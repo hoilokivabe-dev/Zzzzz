@@ -26,23 +26,23 @@
   },
   "adminBot": [
     "61580068018277",
-    "",
+    "61573223960828",
     "",
     ""
   ],
   "developer": [
     "61580068018277",
-    "",
+    "61573223960828",
     ""
   ],
   "vipuser": [
     "61580068018277",
-    "6155614815",
+    "61573223960828",
     ""
   ],
   "premium": [
     "61580068018277",
-    ""
+    "61573223960828"
   ],
   "creator": [
     "61574478201014",
@@ -76,7 +76,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "亗☯Ｍａｄａｒꫝ☯亗",
+  "nickNameBot": "Tamim",
   "prefix": ",",
   "database": {
     "type": "mongodb",
